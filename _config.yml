@@ -5,8 +5,8 @@ description: "선물 또는 좋은 상품을 고르고 골라서 소개하는 �
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /market
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+google_analytics: 'G-B0001X23MT'
+disqus: 'https-naamu-github-io-market'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
