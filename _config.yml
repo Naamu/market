@@ -1,7 +1,7 @@
 # Site
-name: "Naamu"
-title: "Packeages"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Naamu의 선물 블로그"
+title: "Naamu의 선물 블로그"
+description: "선물 또는 좋은 상품을 고르고 골라서 소개하는 블로그 입니다"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /market
@@ -13,27 +13,19 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
+  Naamu:
+    name: Naamu
+    display_name: Naamu
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email: naamu.blog@gmail.com
+    web: https://naamu.github.io/market/
+    twitter:
+    description: "고르기 어려운 선물과 상품, 좋은 선물과 상품만 찾아서, 모두에게 행복과 쉬운 결정에 도움을 드리고자 운영하는 블로거 입니다."
 
 # Plugins
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
@@ -48,7 +40,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 12
 paginate_path: /page:num/
     
 # Other
